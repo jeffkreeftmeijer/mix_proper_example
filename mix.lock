@@ -1,0 +1,2 @@
+%{"mix_proper": {:git, "https://github.com/jeffkreeftmeijer/mix_proper.git", "fda1e4b19c6aabdf856b7d4948102409e0a5c9fc", []},
+  "proper": {:hex, :proper, "1.2.0", "1466492385959412a02871505434e72e92765958c60dba144b43863554b505a4", [], [], "hexpm"}}
